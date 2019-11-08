@@ -31,6 +31,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 
 * [システム管理者権限ユーザーでログインした際にチケット削除ボタンを非表示にする](customizes/27afbc24/customize.md)
 * [チケット作成時に作成日から指定した日数後の日付を期日へ表示する](customizes/85cfc016/customize.md)
+* [チケット作成画面の「ウォッチャー」欄でメンバーの表示を行わず必ず「ウォッチャーを検索して追加」を使用するようにする](customizes/3f0a014e/customize.md)
 
 ### ガントチャート
 
