@@ -22,6 +22,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 ### 「チケット」画面
 
 * [チケット一覧で作成者・担当者・最終更新者の名前が折り返されないようにする](customizes/5efbb0c1/customize.md)
+* [カスタムクエリが反映されたチケット一覧画面を表示する](customizes/4a3d6294/customize.md)
 
 ### 「個人設定」画面
 
