@@ -34,6 +34,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [チケット作成時に作成日から指定した日数後の日付を期日へ表示する](customizes/85cfc016/customize.md)
 * [チケット作成画面の「ウォッチャー」欄でメンバーの表示を行わず必ず「ウォッチャーを検索して追加」を使用するようにする](customizes/3f0a014e/customize.md)
 * [チケット作成時に日付形式のカスタムフィールドへ現在の日付を表示する](customizes/7f0d0fa2/customize.md)
+* [カスタムフィールドの幅を変更する](customizes/25c168d1/customize.md)
 
 ### ガントチャート
 
