@@ -2,15 +2,17 @@
 
 期日をチケット作成日に対応した日数後に設定して表示します。
 
-対応バージョン：Redmine 3.4.11, 4.0.4
+対応バージョン：Redmine 3.4.11, 4.0.4, 4.1.0
 
 ## 設定
 
-Path Pattern: `/issues/new$`
+パスのパターン: `/issues/new$`
 
-Type: JavaScript
+挿入位置: チケット入力欄の下
 
-Code:
+種別: JavaScript
+
+コード:
 
 ``` javascript
 /* チケット作成日の7日後の日付を期日に設定する */

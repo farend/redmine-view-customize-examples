@@ -3,20 +3,22 @@
 プロジェクトの概要画面にあるメンバーの表示欄を非表示にします。  
 ※操作している限りメンバーの表示は見えませんが、**HTMLのソースコードには残っています**。
 
-対応バージョン：Redmine 3.4.11, 4.0.4
+対応バージョン：Redmine 3.4.11, 4.0.5, ４.1.0
 
 ## 設定
 
-Path pattern: `/projects/`
+パスのパターン: `/projects/`
 
-Type: JavaScript
+挿入位置: 全ページのヘッダ
 
-Code:
+種別: JavaScript
+
+コード:
 
 ``` javascript
 /* プロジェクトの概要画面でメンバー欄を非表示にする */
 $(function() {
-  $("div.nosidebar div.members.box").remove();
+  $("div.nosidebar div.members.box").hide();
 });
 ``` 
 

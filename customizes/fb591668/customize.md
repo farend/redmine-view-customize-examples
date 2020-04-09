@@ -4,7 +4,7 @@
 
 ログイン画面の下に登録を促すメッセージを表示を表示すると、Redmineに不慣れな人をアカウント登録に誘導することができます。
 
-対応バージョン：Redmine 3.4.11, 4.0.4
+対応バージョン：Redmine 3.4.11, 4.0.4, 4.1.0
 
 ## 設定
 
@@ -12,12 +12,14 @@ StylesheetとJavaScriptの2つを設定します。
 
 ### StyleSheet
 
-Path Pattern: `/login\??.*$`<br>
+パスのパターン: `/login\??.*$`  
 ※ `/login` または `/login?` にマッチ (いずれもログイン画面のURL)
 
-Type: StyleSheet
+挿入位置: 全ページのヘッダ
 
-Code:
+種別: CSS
+
+コード:
 
 ``` css
 /* メッセージ用スタイル定義 */
@@ -35,12 +37,14 @@ Code:
 
 ### JavaScript
 
-Path Pattern: `/login\??.*$`<br>
+パスのパターン: `/login\??.*$`  
 ※ `/login` または `/login?` にマッチ (いずれもログイン画面のURL)
 
-Type: JavaScript
+挿入位置: 全ページのヘッダ
 
-Code:
+種別: JavaScript
+
+コード:
 
 ``` javascript
 /* ログイン画面 アカウント登録を促すメッセージ表示 */
