@@ -15,6 +15,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [プロジェクト画面の段組みを解除して1段で表示する](customizes/f6b5901b/customize.md)
 * [「プロジェクト」画面から「ガントチャート」「カレンダー」などのメニューを非表示にする](customizes/de33ffd8/customize.md)
 * [カスタムクエリが反映されたプロジェクト一覧画面を表示する](customizes/8fbd742a/customize.md)
+* [プロジェクト一覧画面でプロジェクト名をクリックした際に、チケット一覧画面をデフォルトで表示する](customizes/13c2b2e2/customize.md)
 
 ### 「プロジェクト」の概要画面
 
