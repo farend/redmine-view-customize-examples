@@ -43,6 +43,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 ### ガントチャート
 
 * [ガントチャートでトラッカー名を非表示にする](customizes/0b123b84/customize.md)
+* [ガントチャートでトラッカー名・チケット番号をを非表示にする](customizes/473c1aaf/customize.md)
 
 ### 利用者へのメッセージ・お知らせ等の表示
 
