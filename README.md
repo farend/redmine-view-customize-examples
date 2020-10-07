@@ -57,6 +57,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [リンクを別タブで表示する(Textile)](customizes/0798899d/customize.md)
 * [「個人設定」を非表示にする](customizes/4eac4649/customize.md)
 * [サイドバーの幅を狭くする](customizes/429ae96e/customize.md)
+* [プロジェクトを横断した自分が担当者の未完了チケット一覧へのリンクを表示する](customizes/7226f2fe/customize.md)
 
 
 ## ライセンス
