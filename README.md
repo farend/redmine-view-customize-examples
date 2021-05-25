@@ -46,6 +46,13 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [ガントチャートでトラッカー名を非表示にする](customizes/0b123b84/customize.md)
 * [ガントチャートでトラッカー名・チケット番号をを非表示にする](customizes/473c1aaf/customize.md)
 
+### チケットパネル
+
+「チケットパネル（Issues Panel)」は、チケットをカード形式の一覧で表示するプラグインです。カード形式のチケットをステータスごとに見ることができます。  
+ダウンロード： [https://github.com/redmica/redmine_issues_panel](https://github.com/redmica/redmine_issues_panel)
+
+* [チケットパネルのカードの左側に表示される色を変更する](customizes/4a061412/customize.md)
+
 ### 利用者へのメッセージ・お知らせ等の表示
 
 * [ログイン画面にアカウント登録を促すメッセージを表示する](customizes/fb591668/customize.md)
