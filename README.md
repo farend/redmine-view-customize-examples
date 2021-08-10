@@ -27,6 +27,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [カスタムクエリが反映されたチケット一覧画面を表示する](customizes/4a3d6294/customize.md)
 * [チケット一覧で完了しているチケットの番号に取り消し線を表示する](customizes/a0dc300b/customize.md)
 * [チケット一覧で長いテキストのカスタフィールドの値を省略して表示する](customizes/14284ae1/customize.md)
+* [チケット一覧で優先度によってチケットの背景色を変更する](customizes/1f7acfab/customize.md)
 
 
 ### 「個人設定」画面
