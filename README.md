@@ -44,6 +44,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [カスタムフィールドの幅を変更する](customizes/25c168d1/customize.md)
 * [チケットのコメント入力欄にテンプレートを追加する](customizes/52ff2644/customize.md)
 * [チケット作成・編集画面でトラッカーに応じて説明欄に入力例を表示する](customizes/0d25011e/customize.md)
+* [テキスト形式のカスタムフィールド欄に入力例を表示する](customizes/1b38e16b/customize.md)
 * [チケットの表示画面で「優先度」を非表示にする](customizes/0f3bccf7/customize.md)
 
 ### ガントチャート
