@@ -46,6 +46,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [チケット作成・編集画面でトラッカーに応じて説明欄に入力例を表示する](customizes/0d25011e/customize.md)
 * [テキスト形式のカスタムフィールド欄に入力例を表示する](customizes/1b38e16b/customize.md)
 * [チケットの表示画面で「優先度」を非表示にする](customizes/0f3bccf7/customize.md)
+* [新しいチケット画面でカスタムフィールドにデフォルトで現在日時を yyyy/mm/dd hh:mm 形式で表示する](customizes/68c4adc1/customize.md)
 
 ### ガントチャート
 
