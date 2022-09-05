@@ -50,8 +50,12 @@ body.controller-issues_panel.action-index div#context-menu a[data-method="delete
 
 ### カスタマイズ前
 
-![](before@2x.png)
+|設定1: チケット画面|設定2: チケット一覧画面|
+|---|---|
+|![](before@2x.png)|![](context-menu-before@2x.png)|
 
 ### カスタマイズ後
 
-![](after@2x.png)
+|設定1: チケット画面|設定2: チケット一覧画面|
+|---|---|
+|![](after@2x.png)|![](context-menu-after@2x.png)|
