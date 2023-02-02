@@ -49,6 +49,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [チケットの表示画面で「優先度」を非表示にする](customizes/0f3bccf7/customize.md)
 * [新しいチケット画面でカスタムフィールドにデフォルトで現在日時を yyyy/mm/dd hh:mm 形式で表示する](customizes/68c4adc1/customize.md)
 * [チケット表示画面で「説明」を他の項目より上に表示する](customizes/a69779da/customize.md)
+* [「担当者」ドロップダウンでグループをユーザーより前に表示する](customizes/c615d345/customize.md)
 
 ### ガントチャート
 
