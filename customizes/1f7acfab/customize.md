@@ -29,7 +29,6 @@ table.list.issues tbody tr.priority-3 {
 table.list.issues tbody tr.priority-4 {
   background-color: #ffff00;
 }
-}
 ```
 
 priority-3 や priority-4 の数字部分が優先度を特定するID番号です。背景色を変更したい優先度のIDに置き変えてください。IDはチケット表示画面のHTML内をご覧いただくか、もしくは優先度の編集画面（管理→選択肢の値→優先度の名称をクリック）のURLに含まれる数字で確認できます。
