@@ -51,6 +51,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [チケット表示画面で「説明」を他の項目より上に表示する](customizes/a69779da/customize.md)
 * [「担当者」ドロップダウンでグループをユーザーより前に表示する](customizes/c615d345/customize.md)
 * [チケット作成画面でチケットを作成しているユーザーを「担当者」に表示する](customizes/f8be8ed3/customize.md)
+* [チケット閲覧画面で編集を行う際にコメント欄へのフォーカスとスクロールをやめる](customizes/a0eefde8/customize.md)
 
 ### ガントチャート
 
