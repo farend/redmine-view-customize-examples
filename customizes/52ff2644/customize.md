@@ -1,5 +1,9 @@
 # チケットのコメント入力欄にテンプレートを追加する
 
+> [!TIP]
+> コメント欄へのテンプレート追加は、[Redmine Issue Templates Plugin](https://github.com/agileware-jp/redmine_issue_templates)でも実現可能です。  
+> Redmine Issue Templates Pluginの利用方法を紹介した記事: [https://blog.redmine.jp/articles/how-to-use-issue-templates-plugin/](https://blog.redmine.jp/articles/how-to-use-issue-templates-plugin/)
+
 チケットの編集時にコメントの入力欄にテンプレート（文言）表示します。
 
 対応バージョン: Redmine 3.4.11, 4.0.5, 4.1.0
