@@ -20,6 +20,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 ### 「プロジェクト」の概要画面
 
 * [プロジェクトの概要画面でメンバーを非表示にする](customizes/b36e52d2/customize.md)
+* [プロジェクトの概要画面で説明を横幅いっぱいに表示する](customizes/eaa837fe/customize.md)
 
 ### 「チケット」画面
 
