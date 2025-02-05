@@ -30,6 +30,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [チケット一覧で長いテキストのカスタフィールドの値を省略して表示する](customizes/14284ae1/customize.md)
 * [チケット一覧で優先度によってチケットの背景色を変更する](customizes/1f7acfab/customize.md)
 * [チケット一覧で期日が過ぎたチケットの背景色を変更する](customizes/1201d1e4/customize.md)
+* [チケット一覧で見切れる「長いテキスト」形式カスタムフィールドの値を改行して表示する](customizes/1f5a39bc/customize.md)
 
 
 ### 「個人設定」画面
