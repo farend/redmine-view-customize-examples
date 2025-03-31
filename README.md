@@ -84,6 +84,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [プロジェクトを横断した自分が担当者の未完了チケット一覧へのリンクを表示する](customizes/7226f2fe/customize.md)
 * [ログイン時にホーム画面以外のページに転送する](customizes/83065c7c/customize.md)
 * [フォントサイズを変更する](customizes/d21c4380/customize.md)
+* [テーマ「こどもれっどまいん」を使用中に完了チケットの右下で表示される Great Job を非表示にする](customizes/8bc09b09/customize.md)
 
 ## ライセンス
 
