@@ -60,6 +60,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [チケット閲覧画面で編集を行う際にコメント欄へのフォーカスとスクロールをやめる](customizes/a0eefde8/customize.md)
 * [チケットの「履歴」「プロパティ更新履歴」に表示されるチケットの値の更新履歴を非表示にする](customizes/14f8c37a/customize.md)
 * [チケットの編集画面でカスタムフィールドの名称の文字色を変更する](customizes/f391b553/customize.md)
+* [チケット作成・編集画面で担当者欄の「自分に割り当て」を非表示にする](customizes/3a39c3e5/customize.md)
 
 ### ガントチャート
 
