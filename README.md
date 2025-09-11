@@ -34,9 +34,6 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [チケット一覧で題名の表示幅を変更する](customizes/184bf7f6/customize.md)
 
 
-184bf7f6
-
-
 ### 「個人設定」画面
 
 * [「個人設定」画面内の「メール通知」を非表示にする](customizes/22dad0f4/customize.md)
@@ -85,6 +82,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [ヘッダの背景色を変更する](customizes/5be64089/customize.md)
 * [リンクを別タブで表示する(Textile)](customizes/0798899d/customize.md)
 * [「個人設定」を非表示にする](customizes/4eac4649/customize.md)
+* [「活動」タブを非表示にする](customizes/ad1ae2d5/customize.md)
 * [サイドバーの幅を狭くする](customizes/429ae96e/customize.md)
 * [プロジェクトを横断した自分が担当者の未完了チケット一覧へのリンクを表示する](customizes/7226f2fe/customize.md)
 * [ログイン時にホーム画面以外のページに転送する](customizes/83065c7c/customize.md)
