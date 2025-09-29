@@ -2,9 +2,14 @@
 
 期日が過ぎたチケットの背景色を変えて目立つようにするカスタマイズです。
 
-[farend bleuclair](https://github.com/farend/redmine_theme_farend_bleuclair), [farend_basic](https://github.com/farend/redmine_theme_farend_basic), [farend_fancy](https://github.com/farend/redmine_theme_farend_fancy)などのテーマを利用するとカスタマイズを追加せずにテーマで設定されている色で優先度ごとに色分け表示されます。
+> [!TIP]
+> **カスタマイズ不要（テーマの利用）**：[farend_basic](https://github.com/farend/redmine_theme_farend_basic), [farend_fancy](https://github.com/farend/redmine_theme_farend_fancy)などのテーマを利用すると、カスタマイズを追加しなくても、テーマ標準のスタイルにより、期日が過ぎたチケットはオレンジで表示されます。
 
-対応バージョン：Redmine 4.2.1 / RedMica 1.2.0
+---
+
+テーマを利用せず、独自の色に変更したい場合は、以下のカスタマイズで対応できます。
+
+動作確認バージョン：Redmine 6.0 / RedMica 3.2
 
 ## 設定
 
