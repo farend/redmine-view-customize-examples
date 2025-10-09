@@ -1,8 +1,12 @@
 # サイドバーの幅を狭くする
 
+> [!TIP]  
+> Redmine 6.0からデフォルトテーマでサイドバーの表示・非表示の切り替えができるようになりました。  
+> 詳細:[https://blog.redmine.jp/articles/6_0/new-features/#21808](https://blog.redmine.jp/articles/6_0/new-features/#21808)
+
 ウォッチャーやカスタムクエリなどが表示される右側のサイドバーを変更して表示します。
 
-対応バージョン：Redmine 4.1.0
+動作確認バージョン：Redmine 6.0 / RedMica 3.2
 
 ## 設定
 

@@ -1,7 +1,14 @@
 # チケットパネルのカードの左側に表示される色を変更する
 
+> [!Note]  
+> 「チケットパネル」とは、チケット一覧をカード形式でかんばん風に表示するプラグインです。  
+> 詳細:[https://github.com/redmica/redmine_issues_panel](https://github.com/redmica/redmine_issues_panel)
+
 チケットパネルでは優先度によってカード形式のチケットの左側に色が表示されます。  
 以下のカスタマイズでは、表示される色を好きな色に変更します。
+
+動作確認バージョン：Redmine 6.0 / RedMica 3.2
+
 
 ## 設定
 
