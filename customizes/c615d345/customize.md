@@ -20,11 +20,33 @@
 コード:
 
 ~~~ javascript
-$(function() {
-  $("select#issue_assigned_to_id").each(function(){
-    $(this).children("optgroup").insertAfter($(this).children(":first"));
-    $(this).children("optgroup:last").after("<option value='' disabled=true>─────</option>");
-  });
+$(function () {
+  const $select = $("#issue_assigned_to_id");
+  if (!$select.length) return;
+
+  const selectedVal = $select.val();
+  const $options = $select.children("option");
+  const $optgroups = $select.children("optgroup");
+
+  const $groupOptgroup = $optgroups.filter((_, el) => $(el).attr("label") === "グループ");
+  if (!$groupOptgroup.length) return; 
+
+  const $blank = $options.filter((_, el) => el.value === "").first().detach();
+  const $myself = $options.filter((_, el) => /自分/.test($(el).text())).first().detach();
+
+  const $otherOptgroups = $optgroups.not($groupOptgroup).detach();
+
+  const $separator = $('<option value="" disabled="disabled">─────</option>');
+  $groupOptgroup.detach();
+
+  $select.empty();
+  if ($blank) $select.append($blank);
+  $select.append($groupOptgroup);
+  $select.append($separator);
+  if ($myself) $select.append($myself);
+  $select.append($otherOptgroups);
+
+  $select.val(selectedVal); 
 });
 ~~~
 
