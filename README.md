@@ -33,6 +33,7 @@ View customizeプラグインは、Redmineの画面を手軽にカスタマイ�
 * [チケット一覧で見切れる「長いテキスト」形式カスタムフィールドの値を改行して表示する](customizes/1f5a39bc/customize.md)
 * [チケット一覧で題名の表示幅を変更する](customizes/184bf7f6/customize.md)
 * [チケット一覧でインデント表示を無効化する](customizes/f434513f/customize.md)
+* [チケット一覧およびチケット画面でシステム管理者以外には「他の形式にエクスポート」リンクを非表示にする](customizes/11bc8dd6/customize.md)
 
 
 ### 「個人設定」画面
